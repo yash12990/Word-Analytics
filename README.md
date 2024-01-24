@@ -1,4 +1,4 @@
-Word Analytics Project
+<h1>Word Analytics Project</h1>
 Overview
 The Word Analytics is a simple command-line tool designed to count the number of words in a given text document. This word analytics project is designed to analyze and gain insights from textual data.. This project is useful for quickly obtaining word count statistics for essays, articles, or any other textual content.
 
